@@ -1,0 +1,6 @@
+var val;
+
+function doThisForFun(){
+
+    
+}
